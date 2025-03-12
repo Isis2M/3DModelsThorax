@@ -7,5 +7,5 @@ This Repository provides the 3D models obtained from the segmentation of Compute
 
 Both are free access, it is only requested that when using them you cite the article "3D model reconstruction from Computer Tomography (CT) scans using 3D Slicer: Optimization and Preparation for Mixed, Augment, and Virtual Reality applications". 
 
-Note: Because of the file size of the original models is bigger than 25 GB, they are located in the following Drive folder:https://drive.google.com/file/d/1OHioLUemv7oLW71Rc3mZBZWeVoD9IMuR/view?usp=drive_link 
+Note: Because of the file size is bigger, they are located in the following Drive folder:https://drive.google.com/file/d/1OHioLUemv7oLW71Rc3mZBZWeVoD9IMuR/view?usp=drive_link 
 
